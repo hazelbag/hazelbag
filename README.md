@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm jacques</h1>
-<h3 align="center">A passionate developer from South Africa</h3>
+<h1 align="left">Hi 👋, I'm jacques</h1>
+<h3 align="left">A passionate developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazelbag&label=Profile%20views&color=0e75b6&style=flat" alt="hazelbag" /> </p>
 
@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Vue, Laravel and Vanilla PHP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hazelbag?tab=repositories](https://github.com/hazelbag?tab=repositories)
+- 👨‍💻 All of my projects are available at [hazelbag](https://github.com/hazelbag?tab=repositories)
 
-- 📝 I regularly write articles on [https://portfolio.my-web.me/blog](https://portfolio.my-web.me/blog)
+- 📝 I regularly write articles on [my developer journey](https://portfolio.my-web.me/blog)
 
 - 💬 Ask me about **NextJS**
 
 - 📫 How to reach me **contact@my-web.me**
 
-- 📄 Know about my experiences [https://portfolio.my-web.me/](https://portfolio.my-web.me/)
+- 📄 Want to know more about my experiences check out my [portfolio](https://portfolio.my-web.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
