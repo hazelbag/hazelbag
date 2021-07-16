@@ -7,19 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamhazelbag" target="blank"><img src="https://img.shields.io/twitter/follow/iamhazelbag?logo=twitter&style=for-the-badge" alt="iamhazelbag" /></a> </p>
 
-- 🔭 I’m currently working on [bankerx](https://bankerx.co.za)
-
-- 🌱 I’m currently learning **Vue, Laravel and Vanilla PHP**
-
-- 👨‍💻 All of my projects are available at [hazelbag](https://github.com/hazelbag?tab=repositories)
-
-- 📝 I regularly write articles on [my developer journey](https://portfolio.my-web.me/blog)
-
-- 💬 Ask me about **NextJS**
-
-- 📫 How to reach me **contact@my-web.me**
-
-- 📄 Want to know more about my experiences check out my [portfolio](https://portfolio.my-web.me/)
+🔭 I’m currently working on [bankerx](https://bankerx.co.za) and also an updated portfolio build with Laravel<br/>
+🌱 I’m currently learning **Vue, Laravel and Vanilla PHP**<br/>
+👨‍💻 All of my projects are available at [hazelbag](https://github.com/hazelbag?tab=repositories)<br/>
+📝 I regularly write articles on [my developer journey](https://portfolio.my-web.me/blog)<br/>
+💬 Ask me about **NextJS**<br/>
+📫 How to reach me **contact@my-web.me**<br/>
+📄 Want to know more about my experiences check out my [portfolio](https://portfolio.my-web.me/)<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
