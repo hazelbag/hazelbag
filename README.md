@@ -8,9 +8,9 @@
 
 [![twitter](https://img.shields.io/twitter/follow/iamhazelbag?logo=twitter&style=for-the-badge)](https://twitter.com/iamhazelbag)
 
-🔭 I’m currently working on [bankerx](https://bankerx.co.za) and also an updated portfolio build with Laravel
+🔭 I’m currently working on some cool projects and building out an online store.
 
-🌱 I’m currently learning **Vue, Laravel and Vanilla PHP**
+🌱 I’m currently improving my **Vue, Laravel and Vanilla PHP** skills
 
 👨‍💻 All of my projects are available at [hazelbag](https://github.com/hazelbag?tab=repositories)
 
