@@ -14,8 +14,6 @@
 
 [![views](https://komarev.com/ghpvc/?username=hazelbag&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hazelbag)
 
-[![twitter](https://img.shields.io/twitter/follow/iamhazelbag?logo=twitter&style=for-the-badge)](https://twitter.com/iamhazelbag)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=hazelbag&margin-w=15&theme=onedark)](https://github.com/hazelbag)
 ___
 
